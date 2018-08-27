@@ -1,0 +1,7 @@
+{
+  "name": "GuiaTuristicoGO",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
